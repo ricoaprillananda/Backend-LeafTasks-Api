@@ -2,12 +2,6 @@
 
 A clean and lightweight **todo backend API** built with **Node.js + Express**, using local `.json` file storage. Perfect for minimal full-stack prototypes, personal projects, or educational purposes.
 
-<p align="left">
-  <img alt="GitHub Repo Size" src="https://img.shields.io/github/repo-size/ricoaprillananda/Backend-LeafTasks-Api">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-18.x-green?logo=node.js">
-  <img alt="Made with Love" src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red">
-</p>
-
 ---
 
 ## Features
