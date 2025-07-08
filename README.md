@@ -2,6 +2,7 @@
 
 A clean and lightweight **todo backend API** built with **Node.js + Express**, using local `.json` file storage. Perfect for minimal full-stack prototypes, personal projects, or educational purposes.
 
+
 ---
 
 ## Features
@@ -11,6 +12,7 @@ A clean and lightweight **todo backend API** built with **Node.js + Express**, u
 -  Fast to set up and easy to scale
 -  Tested using Postman
 -  Ideal for frontend/backend integration or learning RESTful APIs
+
 
 ---
 
@@ -28,6 +30,7 @@ A clean and lightweight **todo backend API** built with **Node.js + Express**, u
 
 ### GET All Todos  
 ![GET](./2.PNG)
+
 
 ---
 
@@ -48,14 +51,16 @@ Copy code
 npm start
 Server runs at: http://localhost:3000
 
+
 ---
 
-🧪 API Endpoints
+⚗️ API Endpoints
 Method	Endpoint	Description
 GET	/todos	Retrieve all todos
 POST	/todos	Add a new todo
 PATCH	/todos/:id	Toggle "done" status
 DELETE	/todos/:id	Remove a todo
+
 
 ---
 
@@ -74,6 +79,7 @@ Copy code
 {
   "done": true
 }
+
 
 ---
 
