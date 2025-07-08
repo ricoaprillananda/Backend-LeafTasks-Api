@@ -24,16 +24,16 @@ A clean and lightweight **todo backend API** built with **Node.js + Express**, u
 
 ### File Structure + Express Server  
 > `server.js` & folder layout  
-![Server File](./preview/1.PNG)
+![Server File](./1.PNG)
 
 ### API Tested via Postman
 
 | Create Todo | Update Todo | Delete Todo |
 |-------------|-------------|-------------|
-| ![POST](./preview/3.PNG) | ![PATCH](./preview/4.PNG) | ![DELETE](./preview/5.PNG) |
+| ![POST](./3.PNG) | ![PATCH](./4.PNG) | ![DELETE](./5.PNG) |
 
 ### GET All Todos  
-![GET](./preview/2.PNG)
+![GET](./2.PNG)
 
 ---
 
