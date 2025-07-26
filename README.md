@@ -13,17 +13,15 @@ A clean and lightweight **todo backend API** built with **Node.js + Express**, u
 -  Tested using Postman
 -  Ideal for frontend/backend integration or learning RESTful APIs
 
-
 ---
 
 ## Getting Started
 
 ### 1. Clone & Install
 
-```bash
+```
 git clone https://github.com/ricoaprillananda/Backend-LeafTasks-Api.git
 cd Backend-LeafTasks-Api
-
 ```
 
 ```
@@ -32,43 +30,42 @@ npm install
 Run the Server
 
 Server runs at: http://localhost:3000
-
 ```
+
+
 ---
 
 ⚗️ API Endpoints/ Test with Postman
 
 ```
 
-Method	Endpoint	Description
-GET	/todos	Retrieve all todos
-POST	/todos	Add a new todo
-PATCH	/todos/:id	Toggle "done" status
-DELETE	/todos/:id	Remove a todo
+- Method Endpoint	Description
+- GET	/todos Retrieve all todos
+- POST /todos	Add a new todo
+- PATCH	/todos/:id	Toggle "done" status
+- DELETE	/todos/:id	Remove a todo
 
 ```
-
 
 ---
 
 Example Request Bodies
 
-```
 
 🍀 POST
+```
 json
-Copy code
 {
   "text": "Build LeafTasks API 🍃"
 }
+```
 
 🌼 PATCH
+```
 json
-Copy code
 {
   "done": true
 }
-
 ```
 ---
 
