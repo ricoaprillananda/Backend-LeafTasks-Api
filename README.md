@@ -16,30 +16,7 @@ A clean and lightweight **todo backend API** built with **Node.js + Express**, u
 
 ---
 
-## Preview
 
-### File Structure + Express Server  
-
-```
-
-> `server.js` & folder layout  
-![Server File](./1.PNG)
-
-### API Tested via Postman
-
-| Create Todo | Update Todo | Delete Todo |
-|-------------|-------------|-------------|
-| ![POST](./3.PNG) | ![PATCH](./4.PNG) | ![DELETE](./5.PNG) |
-
-```
-
----
-
-### GET All Todos  
-![GET](./2.PNG)
-
-
----
 
 ## Getting Started
 
@@ -49,8 +26,6 @@ A clean and lightweight **todo backend API** built with **Node.js + Express**, u
 git clone https://github.com/ricoaprillananda/Backend-LeafTasks-Api.git
 cd Backend-LeafTasks-Api
 npm install
-
----
 
 Run the Server
 bash
@@ -63,7 +38,7 @@ Server runs at: http://localhost:3000
 
 ---
 
-⚗️ API Endpoints
+⚗️ API Endpoints/ Test with Postman
 
 ```
 
