@@ -51,20 +51,29 @@ Copy code
 npm start
 Server runs at: http://localhost:3000
 
+```
+
 
 ---
 
 ⚗️ API Endpoints
+
+```
+
 Method	Endpoint	Description
 GET	/todos	Retrieve all todos
 POST	/todos	Add a new todo
 PATCH	/todos/:id	Toggle "done" status
 DELETE	/todos/:id	Remove a todo
 
+```
+
 
 ---
 
 Example Request Bodies
+
+```
 
 🍀 POST
 json
@@ -80,17 +89,19 @@ Copy code
   "done": true
 }
 
-
+```
 ---
 
 🪽 Tech Stack
-Node.js
 
-Express.js
+```
 
-Postman
+- Node.js
+- Express.js
+- Postman
+- Local .json file as data storage (no DB)
 
-Local .json file as data storage (no DB)
+```
 
 ---
 
