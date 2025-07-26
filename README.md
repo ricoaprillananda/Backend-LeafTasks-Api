@@ -19,6 +19,9 @@ A clean and lightweight **todo backend API** built with **Node.js + Express**, u
 ## Preview
 
 ### File Structure + Express Server  
+
+```
+
 > `server.js` & folder layout  
 ![Server File](./1.PNG)
 
@@ -27,6 +30,10 @@ A clean and lightweight **todo backend API** built with **Node.js + Express**, u
 | Create Todo | Update Todo | Delete Todo |
 |-------------|-------------|-------------|
 | ![POST](./3.PNG) | ![PATCH](./4.PNG) | ![DELETE](./5.PNG) |
+
+```
+
+---
 
 ### GET All Todos  
 ![GET](./2.PNG)
@@ -105,8 +112,7 @@ Copy code
 
 ---
 
-👤 Author
-Rico Aprilla Nanda
+🍃 Author Rico Aprilla Nanda
 
 
 
