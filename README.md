@@ -74,14 +74,10 @@ Copy code
 
 🪽 Tech Stack
 
-```
-
 - Node.js
 - Express.js
 - Postman
 - Local .json file as data storage (no DB)
-
-```
 
 ---
 
