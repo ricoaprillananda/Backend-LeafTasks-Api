@@ -16,8 +16,6 @@ A clean and lightweight **todo backend API** built with **Node.js + Express**, u
 
 ---
 
-
-
 ## Getting Started
 
 ### 1. Clone & Install
@@ -25,17 +23,17 @@ A clean and lightweight **todo backend API** built with **Node.js + Express**, u
 ```bash
 git clone https://github.com/ricoaprillananda/Backend-LeafTasks-Api.git
 cd Backend-LeafTasks-Api
-npm install
-
-Run the Server
-bash
-Copy code
-npm start
-Server runs at: http://localhost:3000
 
 ```
 
+```
+npm install
 
+Run the Server
+
+Server runs at: http://localhost:3000
+
+```
 ---
 
 ⚗️ API Endpoints/ Test with Postman
