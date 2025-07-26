@@ -37,16 +37,11 @@ Server runs at: http://localhost:3000
 
 ⚗️ API Endpoints/ Test with Postman
 
-```
-
-- Method Endpoint	Description
+- Method Endpoint Description
 - GET	/todos Retrieve all todos
 - POST /todos	Add a new todo
-- PATCH	/todos/:id	Toggle "done" status
-- DELETE	/todos/:id	Remove a todo
-
-```
-
+- PATCH	/todos/:id Toggle "done" status
+- DELETE	/todos/:id Remove a todo
 ---
 
 Example Request Bodies
